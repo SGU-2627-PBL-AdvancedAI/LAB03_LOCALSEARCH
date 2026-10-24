@@ -10,7 +10,7 @@ mê cung, Simulated Annealing, bài toán N-Queens và bài toán người bán 
 
 ## Tài liệu yêu cầu
 
-File yêu cầu của bài tập: https://classroom.google.com/w/ODg0NjkxMTA1OTQ3/t/all
+File yêu cầu của bài tập: https://drive.google.com/file/d/1jqT2CuyScipntouIsheiSpieZ306Rp9V/view
 
 ## Cấu trúc thư mục
 
@@ -50,22 +50,3 @@ LAB3_LocalSearch/
 - `baocao.pdf`: File báo cáo của bài thực hành.
 - `README.md`: Tài liệu giới thiệu và hướng dẫn tổng quan cho repository.
 
-## Cách chạy
-
-1. Cài đặt Python 3 và Jupyter Notebook hoặc JupyterLab.
-2. Cài đặt các thư viện cần thiết:
-
-   ```bash
-   pip install numpy matplotlib numba jupyter
-   ```
-
-3. Mở Jupyter Notebook tại thư mục `src`:
-
-   ```bash
-   jupyter notebook
-   ```
-
-4. Chọn notebook cần thực hành và chạy lần lượt các cell từ trên xuống.
-
-> Khi chạy notebook, hãy giữ file `maze_helper.py` và `L_maze.txt` trong
-> cùng thư mục `src` để các đường dẫn và lệnh import hoạt động chính xác.
